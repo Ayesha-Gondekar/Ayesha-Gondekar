@@ -1,5 +1,5 @@
 Hello there👋, 
-I’m currently working as a Management Trainee at Solistic Decision Sciences, India
+I’m currently working as a Data Science Intern at Eversana, India
 
 Things I'm good at 🔥
 - Domain: Machine Learning, Data Science, Data Wrangling and Data Visualization.
